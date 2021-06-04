@@ -1,0 +1,13 @@
+{
+  "name": "botwhatsapp",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.6.0"
+  }
+}
